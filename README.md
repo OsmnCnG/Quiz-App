@@ -1,3 +1,3 @@
 # React + Vite
 
-[quiz-app-osmncngs-projects.vercel.app]
+quiz-app-osmncngs-projects.vercel.app
